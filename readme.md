@@ -28,11 +28,11 @@ This repository contains code examples and framework to be used along the course
 ## Cloning the Repository
 If you have a [github account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) with a [SSH key setup](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account):
 ```
-git clone --recurse-submodules git@github.com:joaorossi/modern-real-time-audio.git
+git clone --recurse-submodules git@github.com:joaorossi/modern-real-time-audio-2025.git
 ```
 Otherwise, the `https` will also work.
 ```
-git clone --recurse-submodules https://github.com/joaorossi/modern-real-time-audio.git
+git clone --recurse-submodules https://github.com/joaorossi/modern-real-time-audio-2025.git
 ```
 
 ## Build the example project
